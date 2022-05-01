@@ -218,3 +218,35 @@
     width: 320px;
   }
   
+  /* Project */
+.project {
+    margin-top: 120px;
+  }
+  
+  .project__container-main {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .project__text {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  .project__text p {
+    margin-bottom: 20px;
+  }
+  
+  
+  .image {
+    width: 100%;
+  }
+  
+  .project__image {
+    width: 630px;
+  }
+  
+  .buttons {
+    margin-top: 40px;
+  }
