@@ -144,3 +144,30 @@
   .nav__button:hover {
     box-shadow: 0px 2px 15px rgb(184, 184, 184);
   }
+
+
+/* Hero Section */
+
+.hero__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 100px;
+  }
+  
+  .hero__paragraph {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  .hero__image {
+    width: 100%;
+  }
+  
+  .hero__image-main {
+    width: 545px;
+    height: 500px;
+  }
+  
+  .buttons {
+    margin-top: 40px;
+  }
