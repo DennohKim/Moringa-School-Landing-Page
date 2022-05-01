@@ -9,6 +9,8 @@
   body {
     font-family: "Nunito", sans-serif;
     font-weight: 400;
+    width: 100%;
+    
   }
   
   h1 {
@@ -185,14 +187,74 @@
     margin-top: 60px;
   }
   
-  .stories__image {
+  .stories__image01 {
     width: 100%;
+    background-image: url("/assets/images/image 2.png") ;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .stories__image02 {
+    width: 100%;
+    background-image: url("/assets/images/image 3.png") ;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .stories__image03 {
+    width: 100%;
+    background-image: url("/assets/images/image 4.png") ;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
   }
   
-  .stories__image-main {
-    width: 585px;
+  #stories__image-number-right {
+      position: relative;
+      display: flex;
+      justify-content: flex-end;
+      margin-right: 20px;
+      padding-top: 20px;
+      font-size: 20px;
+      color: #fff;
+
   }
-  
+
+  #stories__image-date-left {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    padding-top: 300px;
+    font-size: 20px;
+    color: #fff;
+
+  }
+
+  #stories__image-number-left {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+#stories__image-date-right {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  padding-top: 300px;
+  font-size: 20px;
+  color: #fff;
+
+}
+
+
+
   .stories__btn {
     margin-top: 40px;
   }
