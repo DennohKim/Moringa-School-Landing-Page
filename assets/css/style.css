@@ -250,3 +250,24 @@
   .buttons {
     margin-top: 40px;
   }
+
+  /* Contacts */
+
+.contact__container {
+    margin-top: 60px;
+  }
+  
+  .btn__contact {
+    padding: 10px 30px;
+    font-weight: 700;
+    background-color: #ec4067;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    
+  }
+  
+  #contact__paragraph {
+    margin-top: 20px;
+  }
+  
