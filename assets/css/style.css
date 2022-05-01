@@ -196,7 +196,7 @@ li .nav__link:active {
 
 .stories__image01 {
   width: 100%;
-  background-image: url("assets/images/image2.png");
+  background-image: url("/assets/images/image2.png");
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -204,7 +204,7 @@ li .nav__link:active {
 
 .stories__image02 {
   width: 100%;
-  background-image: url("assets/images/image3.png");
+  background-image: url("/assets/images/image3.png");
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -212,7 +212,7 @@ li .nav__link:active {
 
 .stories__image03 {
   width: 100%;
-  background-image: url("assets/images/image4.png");
+  background-image: url("/assets/images/image4.png");
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -276,28 +276,28 @@ li .nav__link:active {
 }
 
 .technical-mentor-rose {
-  background-image: url(assets/images/image5.png);
+  background-image: url(/assets/images/image5.png);
   background-position: center;
   background-size: cover;
   height: 300px;
   border-radius: 6px;
 }
 .technical-mentor-albert {
-  background-image: url(assets/images/image6.png);
+  background-image: url(/assets/images/image6.png);
   background-position: center;
   background-size: cover;
   height: 300px;
   border-radius: 6px;
 }
 .technical-mentor-raphael {
-  background-image: url(assets/images/image7.png);
+  background-image: url(/assets/images/image7.png);
   background-position: center;
   background-size: cover;
   height: 300px;
   border-radius: 6px;
 }
 .technical-mentor-christine {
-  background-image: url(assets/images/image8.png);
+  background-image: url(/assets/images/image8.png);
   background-position: center;
   background-size: cover;
   height: 300px;
