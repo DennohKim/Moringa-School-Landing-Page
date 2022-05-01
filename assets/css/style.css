@@ -196,3 +196,25 @@
   .stories__btn {
     margin-top: 40px;
   }
+
+
+/* Technical Mentors */
+
+.mentors {
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+  }
+  .technical-mentor__card {
+    margin-right: 20px;
+  }
+  
+  .technical-mentor__details p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  
+  .technical-mentor__image {
+    width: 320px;
+  }
+  
