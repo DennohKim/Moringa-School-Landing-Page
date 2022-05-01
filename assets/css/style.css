@@ -171,3 +171,28 @@
   .buttons {
     margin-top: 40px;
   }
+
+  /* Stories Section */
+
+.stories__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    margin-bottom: 60px;
+  }
+  
+  .stories__text {
+    margin-top: 60px;
+  }
+  
+  .stories__image {
+    width: 100%;
+  }
+  
+  .stories__image-main {
+    width: 585px;
+  }
+  
+  .stories__btn {
+    margin-top: 40px;
+  }
